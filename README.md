@@ -22,8 +22,8 @@ Need to share your location during an emergency or when maps can't load? Just ta
 > This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 Terms of Use:
 
-    No Liability: This software is provided "as is" without warranty of any kind. The [author](https://github.com/cxcolor) is not responsible for any damage, data loss, or issues caused by the use or misuse of this software.
+    No Liability: This software is provided "as is" without warranty of any kind. The author is not responsible for any damage, data loss, or issues caused by the use or misuse of this software.
 
-    Notification: Please notify the [author](https://github.com/cxcolor) before using or deploying this project in your own applications.
+    Notification: Please notify the author before using or deploying this project in your own applications.
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to audit, fork, or adapt the code for your own safety-critical applications.
